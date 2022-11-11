@@ -3,7 +3,7 @@
         <tr>
             <th>Layer 1</th>
             <th>Layer 2</th>
-            <th>[GAN 프로젝트 링크](https://github.com/shiny0510/FewShot_GAN-Unet3D)</th>
+            <th>|[GAN 프로젝트 링크](https://github.com/shiny0510/FewShot_GAN-Unet3D)</th>
         </tr>
     </thead>
     <tbody>
